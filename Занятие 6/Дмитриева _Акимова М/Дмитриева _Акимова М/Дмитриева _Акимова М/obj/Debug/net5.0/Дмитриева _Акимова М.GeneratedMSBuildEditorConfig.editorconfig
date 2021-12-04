@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Дмитриева__Акимова_М
+build_property.ProjectDir = \\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Дмитриева Н._Акимова М\УП_02_2ИСП_Дмитриева_Акимова М\Занятие 6\Дмитриева _Акимова М\Дмитриева _Акимова М\Дмитриева _Акимова М\

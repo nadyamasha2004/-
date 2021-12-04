@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\bin\Debug\net5.0\Дмитриева _Акимова М.exe
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\bin\Debug\net5.0\Дмитриева _Акимова М.deps.json
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\bin\Debug\net5.0\Дмитриева _Акимова М.runtimeconfig.json
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\bin\Debug\net5.0\Дмитриева _Акимова М.runtimeconfig.dev.json
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\bin\Debug\net5.0\Дмитриева _Акимова М.dll
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\bin\Debug\net5.0\ref\Дмитриева _Акимова М.dll
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\bin\Debug\net5.0\Дмитриева _Акимова М.pdb
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\obj\Debug\net5.0\Дмитриева _Акимова М.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\obj\Debug\net5.0\Дмитриева _Акимова М.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\obj\Debug\net5.0\Дмитриева _Акимова М.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\obj\Debug\net5.0\Дмитриева _Акимова М.AssemblyInfo.cs
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\obj\Debug\net5.0\Дмитриева _Акимова М.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\obj\Debug\net5.0\Дмитриева _Акимова М.dll
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\obj\Debug\net5.0\ref\Дмитриева _Акимова М.dll
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\obj\Debug\net5.0\Дмитриева _Акимова М.pdb
+C:\Users\User\source\repos\Дмитриева _Акимова М\Дмитриева _Акимова М\obj\Debug\net5.0\Дмитриева _Акимова М.genruntimeconfig.cache
